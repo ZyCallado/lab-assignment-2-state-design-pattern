@@ -65,3 +65,6 @@ Current System: The system currently relies on conditional statements within the
     </ul>
   </li>
 </ol>
+
+### UML Class Diagram
+![alt text](https://github.com/ZyCallado/lab-assignment-2-state-design-pattern/blob/main/LabAssign2-UML-Class-Diagram.png)
